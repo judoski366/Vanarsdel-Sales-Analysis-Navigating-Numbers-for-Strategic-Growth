@@ -7,12 +7,13 @@ VanArsdel, a global sporting goods brand, offers both in-house and sourced produ
 
 ## Table Of Content
  - [Introduction](#Introduction)
- - [ASK](#1.ASK)
+ - [ASK](#ASK)
  - [PREPARE](#PREPARE)
  - [PROCESS](#PROCESS)
  - [ANALYZE](#ANALYZE)
  - [SHARE](#SHARE)
  - [ACT](#ACT)
+ - [Additional Resources](#Additional-Resources)
 
 
 ## INTRODUCTION
@@ -21,7 +22,7 @@ VanArsdel is a well-known manufacturer and seller of sporting goods, operating i
 
 ---
 
-## 1.ASK
+## ASK
 
 ### Key question
 
@@ -43,7 +44,7 @@ VanArsdel is a well-known manufacturer and seller of sporting goods, operating i
 
 ---
 
-## 2. Prepare
+## PREPARE
 
 ### Data Collection:
 
@@ -114,7 +115,7 @@ For this VanArsdel sales analysis project, data was sourced from Quantum Analyti
 
 ---
 
-## 3.Process:
+## PROCESS:
 
 ### Data Transformation:
 
@@ -156,7 +157,7 @@ This transformation process enabled the creation of accurate and insightful visu
 
 ---
 
-## 4. Analyze
+## ANALYZE
 Using the cleaned and transformed data, I conducted an analysis to extract key insights related to VanArsdel’s sales performance, customer distribution, and profitability. Here are the insights derived from the analysis.
 
 ### Key Insight:
@@ -223,7 +224,7 @@ Using the cleaned and transformed data, I conducted an analysis to extract key i
 
 ---
 
-## 5. Share
+## SHARE
 
 * **Data Sharing and Visualization:** In this stage, I created a Tableau dashboard to effectively communicate the findings from the analysis of VanArsdel’s sales data. The dashboard includes the following key visualizations:
 
@@ -247,7 +248,7 @@ Explanatory Note: Annotations that guide users through the visualizations, provi
 
 ---
 
-## 6. Act
+## ACT
 
 #### Recommendations
 
