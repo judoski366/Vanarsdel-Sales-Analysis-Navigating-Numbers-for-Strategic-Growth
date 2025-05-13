@@ -6,14 +6,14 @@ VanArsdel, a global sporting goods brand, offers both in-house and sourced produ
 
 
 ## Table Of Content
- - [Introduction](#Introduction)
+ - [Introduction](#INTRODUCTION)
  - [ASK](#ASK)
  - [PREPARE](#PREPARE)
  - [PROCESS](#PROCESS)
  - [ANALYZE](#ANALYZE)
  - [SHARE](#SHARE)
  - [ACT](#ACT)
- - [Additional Resources](#Additional-Resources)
+ - [Additional Resources](#ADDITIONAL-RESOURCES)
 
 
 ## INTRODUCTION
