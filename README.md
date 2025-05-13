@@ -18,7 +18,21 @@ VanArsdel, a global sporting goods brand, offers both in-house and sourced produ
 
 ## INTRODUCTION
 
-VanArsdel is a well-known manufacturer and seller of sporting goods, operating in multiple regions, including the United States and various international markets. Their product portfolio includes items produced in-house as well as those sourced from other manufacturers. As a data analyst, I aim to analyze VanArsdel’s financial performance, focusing on the total cost of production, revenue generation, and profits. Additionally, I will examine the company’s customer distribution across different regions to uncover insights that could drive future business strategies using the six phase of data analysis.
+VanArsdel is a prominent manufacturer and distributor of sporting goods, with operations spanning the United States and various international markets. Its diverse product portfolio comprises both in-house manufactured items and goods sourced from third-party suppliers.
+
+In this project, my role as a data analyst is to evaluate VanArsdel’s financial performance by analyzing key metrics such as total production costs, revenue streams, and overall profitability. Furthermore, I will investigate the company’s customer distribution across different geographic regions to identify trends and opportunities for strategic growth.
+
+This analysis will be conducted using the six-phase data analysis process, which includes:
+
+1. **Ask** – Defining business objectives and identifying key questions
+2. **Prepare** – Gathering and cleaning relevant data
+3. **Process** – Organizing and validating the data for analysis
+4. **Analyze** – Exploring the data to uncover patterns and insights
+5. **Share** – Presenting findings through visualizations and reports
+6. **Act** – Drawing conclusions and recommending data-driven strategies
+
+By leveraging this structured approach, the goal is to provide actionable insights that can inform VanArsdel’s decision-making and contribute to its continued success in the global sporting goods market.
+
 
 ---
 
